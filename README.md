@@ -10,13 +10,17 @@ https://www.canva.com/design/DAF2j3WcGgY/qJVMJU1mur2Wkx0Ps2ZFBA/view?utm_content
 
 ## Apps on Google Play Store:
 Yotta Expo for Customers: https://play.google.com/store/apps/details?id=com.yotta_eight.yotta
+
 Yotta Expo for Vendors: https://play.google.com/store/apps/details?id=com.yotta_eight_v.yotta_vendor
+
 Yotta Expo for Delivery Agents: https://play.google.com/store/apps/details?id=com.yotta_eight_delivery.yotta
+
 Demo Video: App Functionality Overview: 
+
 https://plakshauniversity1-my.sharepoint.com/personal/amol_harsh_plaksha_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Famol%5Fharsh%5Fplaksha%5Fedu%5Fin%2FDocuments%2FILGCSem5%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 ## Research Methodology
-Our approach included:
+Team's approach included:
 
 Primary Research: In-depth interviews with stakeholders (vendors, customers, delivery personnel) and experts.
 
@@ -24,12 +28,31 @@ Secondary Research: Literature reviews, case studies (like inDriver), and analys
 
 Field Research: Immersion trips, surveys, and semantic analysis to understand stakeholders' perspectives and challenges.
 
-Development Process
+## Development Process
 The development phase involved:
-Identifying key pain points through various research methods.
-Brainstorming and designing features that address these issues.
-Full-stack development of the three apps, integrating front-end usability with complex back-end functionalities.
 
+(1) Identifying key pain points through various research methods.
+
+(2) Brainstorming and designing features that address these issues.
+
+(3) Full-stack development of the three apps, integrating front-end usability with complex back-end functionalities.
+
+## Design and Features
+Our solution bridges the gap in the market with the following features:
+
+(1) Competitive Pricing: A bargaining feature allows customers to get products at competitive prices.
+
+(2) Quality Assurance: Ratings and reviews for each seller ensure the quality of products.
+
+(3) Trustworthy and Prompt Delivery: Prioritization of sellers within a 2km radius fosters trust and ensures fast delivery.
+
+(4) Accessibility: A multi-language option makes the app accessible to diverse sellers.
+
+(5) Digital Marketplace: Sourcing produce directly from local vendors provides them with a platform to expand their reach.
+
+(6) Local Insights: Vendors receive analytics on hot products and buying patterns in their locality through the app.
+
+These features are the keystones of Yotta Expo, conceptualized to empower local vendors by providing them with tools previously available only to large companies.
 
 ## Key Insights
 Recognition of the profitability of daily deal businesses in developing economies.
