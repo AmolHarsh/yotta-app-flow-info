@@ -8,6 +8,10 @@ Yotta Expo is a pioneering app designed to empower local street cart vendors, en
 Presentation: Yotta Expo Presentation: 
 https://www.canva.com/design/DAF2j3WcGgY/qJVMJU1mur2Wkx0Ps2ZFBA/view?utm_content=DAF2j3WcGgY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel#6
 
+## LinkedIn Project Post link:
+
+https://www.linkedin.com/in/amol-harsh-355523141/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACJtRDEBI-AxILTT_iwLlwkqZSmvhqzjOGM
+
 ## Apps on Google Play Store:
 Yotta Expo for Customers: https://play.google.com/store/apps/details?id=com.yotta_eight.yotta
 
