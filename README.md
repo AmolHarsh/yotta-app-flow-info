@@ -68,3 +68,10 @@ Identification of vendors' challenges, such as lack of resources for timely deli
 
 ## Mentor Feedback and Learnings
 Engaging with experts and business owners provided valuable insights into the identified problems and proposed solutions, contributing significantly to the project's direction and execution.
+
+# Contributors
+(1) Amol Harsh
+
+(2) Alli Ajagbe
+
+Mentored by Prof. Rucha Joshi, Plaksha University
