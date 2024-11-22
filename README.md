@@ -14,16 +14,16 @@ The app has successfully been launched on both the **Google Play Store** and **A
 ### LinkedIn Project Post:
 [LinkedIn Post Link](https://www.linkedin.com/in/amol-harsh-355523141/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACJtRDEBI-AxILTT_iwLlwkqZSmvhqzjOGM)
 
+### App on Apple App Store India:
+- Yotta Expo: [Apple App Store Link](https://apps.apple.com/us/app/yotta-expo/id6503679197)
+  
 ### Apps on Google Play Store India:
 - Yotta Expo for Customers: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.yotta_eight.yotta)
 - Yotta Expo for Vendors: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.yotta_eight_v.yotta_vendor)
 - Yotta Expo for Delivery Agents: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.yotta_eight_delivery.yotta)
 
-### App on Apple App Store India:
-- Yotta Expo: [Apple App Store Link](https://apps.apple.com/us/app/yotta-expo/id6503679197)
-
 ### Demo Video:
-[App Functionality Overview](https://plakshauniversity1-my.sharepoint.com/personal/amol_harsh_plaksha_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Famol%5Fharsh%5Fplaksha%5Fedu%5Fin%2FDocuments%2FILGCSem5%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+[App Functionality Overview](https://plakshauniversity1-my.sharepoint.com/:v:/g/personal/amol_harsh_plaksha_edu_in/EfGVp2fpyNBFr_CWtU3UrksBi559_aDEj2yQgU6StdurPw?e=qyYCul&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Certificate of Achievement:
 The project was recognized by the **Grand Challenges Scholars Program (GCSP)**, endorsed by the **US National Academy of Engineering**. The certificate highlights the program's emphasis on forward-looking research, cross-disciplinary breadth, entrepreneurship, and social consciousness.  
