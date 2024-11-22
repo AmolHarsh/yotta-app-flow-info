@@ -6,6 +6,7 @@ Yotta Expo is a pioneering app designed to empower local street cart vendors, en
 
 ## Project Links
 Presentation: Yotta Expo Presentation: 
+
 https://www.canva.com/design/DAF2j3WcGgY/qJVMJU1mur2Wkx0Ps2ZFBA/view?utm_content=DAF2j3WcGgY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel#1
 
 ## LinkedIn Project Post link:
