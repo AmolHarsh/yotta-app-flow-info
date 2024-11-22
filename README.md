@@ -29,10 +29,8 @@ The app has successfully been launched on both the **Google Play Store** and **A
 ### Demo Video:
 [App Functionality Overview](https://plakshauniversity1-my.sharepoint.com/:v:/g/personal/amol_harsh_plaksha_edu_in/EfGVp2fpyNBFr_CWtU3UrksBi559_aDEj2yQgU6StdurPw?e=qyYCul&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-### Certificate of Achievement:
-The project was recognized by the **Grand Challenges Scholars Program (GCSP)**, endorsed by the **US National Academy of Engineering (NAE)**. This endorsement lends **international credibility** to the project, underscoring its alignment with global engineering standards and societal impact goals. 
-
-The certificate highlights the program's emphasis on **forward-looking research**, **cross-disciplinary breadth**, **entrepreneurship**, and **social consciousness**—validating the project's innovative approach and its contribution to addressing real-world challenges. This recognition also establishes the **genuineness and quality of the work accomplished**, as it meets the rigorous standards set by one of the world's most respected engineering organizations.
+### Certificate of Achievement:  
+The project was recognized by the **Grand Challenges Scholars Program (GCSP)**, endorsed by the **US National Academy of Engineering (NAE)**, adding **international credibility**. This endorsement validates the project's **innovation, quality, and societal impact**, aligning it with global engineering standards.
 
 [PDF Link to Certificate](#) *(Add your certificate link here)*
 
