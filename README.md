@@ -30,7 +30,7 @@ The app has successfully been launched on both the **Google Play Store** and **A
 [App Functionality Overview](https://plakshauniversity1-my.sharepoint.com/:v:/g/personal/amol_harsh_plaksha_edu_in/EfGVp2fpyNBFr_CWtU3UrksBi559_aDEj2yQgU6StdurPw?e=qyYCul&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Certificate of Achievement:  
-The project was recognized by the **Grand Challenges Scholars Program (GCSP)**, endorsed by the **US National Academy of Engineering (NAE)**, adding **international credibility**. This endorsement validates the project's **innovation, quality, and societal impact**, aligning it with global engineering standards.
+Amol Harsh was recognized for successfully completing the **Grand Challenges Scholars Program (GCSP)**, endorsed by the **US National Academy of Engineering (NAE)**. The program highlights his contributions to projects like Yotta Expo, demonstrating **innovation, quality, and societal impact**. This endorsement adds **international credibility** and aligns the work with global engineering standards.
 
 [PDF Link to Certificate](#) *(Add your certificate link here)*
 
