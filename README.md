@@ -4,7 +4,11 @@ This repo contains past, present, and new development information related to Yot
 ## Overview
 Yotta Expo is a pioneering app designed to empower local street cart vendors, enabling them to enhance sales and effectively compete with major online delivery services. This comprehensive project, comprising a trio of interconnected apps (for vendors, customers, and delivery agents), was developed through extensive research and full-stack development skills, addressing specific challenges faced by vendors in the rapidly evolving marketplace.
 
-The app has successfully been launched on both the **Google Play Store** and **Apple App Store** in India. It demonstrated significant impact during testing, achieving a **20% increase in vendor revenue** and a **50% reduction in fruit and vegetable wastage**.
+The project demonstrated the **impact of leveraging digital tools** to empower local vendors, enabling them to compete against quick e-commerce businesses that pose a significant threat to their livelihoods in India. Through innovative solutions, Yotta Expo not only boosted vendor revenue but also reduced wastage (for sellers selling perishable items like fruits and vegetables), ensuring sustainable business growth.
+
+The app has successfully been launched on both the **Google Play Store** and **Apple App Store** in India. It demonstrated significant impact during testing and deployment in **Prayagraj (2023)** with 5 local vendors and in **Chandigarh (2024)** with 2 local vendors, achieving a **20% increase in vendor revenue** and a **50% reduction in fruit and vegetable wastage**.
+
+
 
 ## Project Links
 
