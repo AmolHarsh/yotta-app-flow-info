@@ -18,10 +18,10 @@ The app has successfully been launched on both the **Google Play Store** and **A
 ### LinkedIn Project Post:
 [LinkedIn Post Link](https://www.linkedin.com/in/amol-harsh-355523141/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACJtRDEBI-AxILTT_iwLlwkqZSmvhqzjOGM)
 
-### App on Apple App Store India: (active for regions outside India)
+### App on Apple App Store India: (app will show for regions outside India also)
 - Yotta Expo: [Apple App Store Link](https://apps.apple.com/us/app/yotta-expo/id6503679197)
   
-### Apps on Google Play Store India: (inactive for regions outside India)
+### Apps on Google Play Store India: (app will not show for regions outside India)
 - Yotta Expo for Customers: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.yotta_eight.yotta) 
 - Yotta Expo for Vendors: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.yotta_eight_v.yotta_vendor)
 - Yotta Expo for Delivery Agents: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.yotta_eight_delivery.yotta)
